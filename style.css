@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.pro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2px;
+}
+.pro img{
+
+    width: 100%;
+    
+}
+.mox{
+    color: gold;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+}
+.jum{
+    font-size: 20px;
+    color:rgb(1, 51, 11);
+    background-image: linear-gradient(180deg,red,yellow,blue);
+    padding:10px 10px;
+    font-weight:900;
+    text-decoration: none;
+    border-radius: 10px;;
+
+    
+}
+.half{
+    background-image: url(images/lol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 600px;
+   
+}
+.tro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2px;
+
+
+}
+.ton img{
+    width: 100%;
+    margin-top: 10%;
+
+}
+.ton{
+    background-image: url(images/a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.good{
+    color: red;
+}
+.jo{
+
+    color:crimson;}
+.po{
+    color:rgb(81, 248, 15);
+
+}
+.ro{
+    color: rgb(95, 72, 55);
+}
+
+
+.roni {
+    float:left;
+    width:30%;
+    padding:2px;
+    margin: 2px;
+    
+    
+    
+}
+.roni img{
+    margin-left: 35px;
+    text-decoration: none;
+}
+img{
+    margin:0;
+    padding:0;
+}
+.joss{
+    text-align: center;
+}
+.roq{
+    background-image: url(images/back.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+.ol{
+    text-align: center;
+}
+.foot{
+    margin-left: 35px;
+}
+.poo{
+    padding:5px 5px;
+    background-image: linear-gradient(180deg,tomato,yellow,red);
+    color: rgb(10, 10, 105);
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+
+
+.foot{
+    text-align: center;
+    background-image: url(images/new.jpg);
+
+}
+.roti{
+
+    background-color: tomato;
+    box-shadow: 10px 10px 40px black;
+    width: 70%;
+    padding:40px;
+    text-align: center;
+    margin-left: 150px;
+}
+footer a{
+    text-decoration: none;
+    text-align: center;
+    color:black;
+    
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+
+    
+}
